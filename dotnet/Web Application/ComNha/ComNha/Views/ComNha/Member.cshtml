@@ -1,0 +1,130 @@
+﻿
+@{
+    ViewData["Title"] = "Hội viên - Cơm nhà";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/pages/member/style.css">
+</head>
+
+<div class="member">
+    <div class="container">
+        <h1 class="member-title">Hội viên</h1>
+        <div class="member-intro">
+            <div class="row mt-5">
+                <div class="col-12 col-lg-6">
+                    <img src="~/images/member.png" alt="Member" class="member-intro__img">
+                </div>
+                <div class="col-12 col-lg-6">
+                    <div class="member-intro__info">
+                        <div class="member-intro__title">__ Quyền lợi __</div>
+                        <p class="member-intro__desc">
+                            Trở thành <strong>Hội viên</strong> của nhà hàng <strong>Cơm nhà</strong> sẽ mang đến
+                            nhiều quyền lợi và ưu đãi hấp dẫn dành riêng cho bạn như: ưu đãi giảm giá, tham gia các
+                            hoạt
+                            động dành cho hội viên, ...
+                            Còn chờ gì nữa, hãy mau trở thành một phần của đại gia đình <strong>Cơm nhà</strong>
+                            thôi
+                            nào.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="member-content">
+            <div class="member-item">
+                <div class="member-item__title">
+                    Tra cứu chiết khấu:
+                </div>
+                <div id="discount-errorMessage" class="alert">
+                </div>
+                <div class="member-item__body">
+                    <div class="mr-md-4 pb-2">
+                        <form id="member-discount-form" class="needs-validation" action="#" method="Post"
+                            novalidate>
+                            <div class="form-row">
+                                <div class="offset-lg-2 col-lg-4 mb-3">
+                                    <div class="input-group">
+                                        <input type="number" class="form-control" id="memberId"
+                                            placeholder="Nhập mã hội viên" aria-describedby="inputGroupPrepend"
+                                            required>
+                                        <div class="input-group-prepend">
+                                            <button type="submit" class="btn btn-outline-success">Xác nhận</button>
+                                        </div>
+                                        <div class="invalid-feedback">
+                                            Vui lòng nhập mã hội viên!
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-4 mb-3">
+                                    <input type="text" class="form-control" id="memberDiscount" readonly>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+
+                </div>
+            </div>
+            <div class="member-item">
+                <div class="member-item__title">
+                    Đổi mật khẩu:
+                </div>
+                <div class="member-item__body">
+                    <form id="member-password-form" class="member-form-password needs-validation" action="#"
+                        method="Post" novalidate>
+                        <div class="form-group">
+                            <input type="number" class="form-control" id="member-id" placeholder="Nhập mã hội viên"
+                                required>
+                            <div class="invalid-feedback">
+                                Vui lòng nhập mã hội viên!
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <input type="password" class="form-control" id="member-old-password"
+                                placeholder="Mật khẩu cũ" required autocomplete="off">
+                            <div class="invalid-feedback">
+                                Vui lòng nhập mật khẩu cũ!
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <input type="password" class="form-control" id="member-new-password"
+                                placeholder="Mật khẩu mới" required autocomplete="off">
+                            <div class="invalid-feedback">
+                                Vui lòng nhập mật khẩu mới!
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <input type="password" class="form-control" id="member-retype-password"
+                                placeholder="Nhập lại mật khẩu mới" required autocomplete="off">
+                            <div class="invalid-feedback">
+                                Vui lòng xác nhận mật khẩu mới!
+                            </div>
+                        </div>
+                        <div id="errorMessage" class="alert">
+                        </div>
+                        <div class="d-flex justify-content-end">
+                            <button type="submit" class="btn btn-outline-success">Xác nhận</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="member-item">
+                <div class="member-item__title">
+                    Tra cứu chiết khấu:
+                </div>
+                <div class="member-item__body pl-4 pb-5">
+                    <div class="mb-2 mr-5">
+                        <strong>Hotline: </strong>
+                        <span>0399999999</span>
+                    </div>
+                    <div>
+                        <strong>Email: </strong>
+                        <span>comnha@nhahangcomnha.com</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="~/js/pages/member/control.js"></script>

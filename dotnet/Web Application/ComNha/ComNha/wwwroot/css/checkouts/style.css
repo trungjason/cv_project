@@ -1,0 +1,137 @@
+.checkouts {
+    font-family: 'Lora', serif !important;
+    color: var(--text-color);
+    animation: grouthAndFadeIn linear 0.4s;
+    padding-bottom: 60px;
+}
+
+.checkouts-label {
+    font-size: 30px;
+    color: var(--primary-color);
+}
+
+.checkouts-list {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+.checkouts-item__img {
+    position: relative;
+}
+
+.checkouts-item__img img {
+    width: 100px;
+    height: 75px;
+    object-fit: cover;
+    border: 2px solid var(--primary-color);
+    padding: 2px;
+    border-radius: 8px;
+}
+
+.checkouts-item__img span {
+    position: absolute;
+    font-size: 14px;
+    top: -10px;
+    right: -10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    color: var(--white-color);
+    background-color: rgba(255, 0, 0, 0.6);
+}
+
+.checkouts-item__info {
+    flex: 1;
+}
+
+.checkouts-item__name {
+    flex: 1;
+}
+
+.checkouts-item__price {
+    justify-self: flex-end;
+}
+
+.checkouts-summary {
+    padding: 20px 0;
+    border-bottom: 2px solid rgb(134, 132, 132);
+    border-top: 2px solid rgb(134, 132, 132);
+}
+
+.checkouts-note {
+    font-size: 14px;
+}
+
+.checkouts-price,
+.checkouts-ship,
+.checkouts-discount,
+.checkouts-total {
+    display: flex;
+    justify-content: space-between;
+}
+
+.checkouts-ship {
+    margin: 6px 0;
+}
+
+.checkouts-total {
+    padding-top: 20px;
+    align-items: center;
+}
+
+.checkouts-total span {
+    font-size: 26px;
+    color: var(--primary-color);
+}
+
+.checkouts-paid {
+    margin-top: 20px;
+    padding: 0 10px;
+}
+
+.checkouts-paid__heading p {
+    margin: 0;
+    font-size: 14px;
+}
+
+.checkouts-paid__heading-title {
+    font-size: 20px !important;
+    display: flex;
+    align-items: center;
+}
+
+.checkouts-paid__heading-title i {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--white-color);
+    background-color: rgb(9, 211, 9);
+    margin-right: 10px;
+}
+
+.checkouts-paid__content {
+    margin-top: 40px;
+    padding: 16px;
+    border: 2px solid var(--primary-color);
+    border-radius: 12px;
+}
+
+.checkouts-paid__content-title {
+    font-size: 18px;
+}
+
+.checkouts-paid__content-list {
+    padding-left: 20px;
+}
+
+.checkouts-paid__content-item {
+    margin-bottom: 12px;
+}
+

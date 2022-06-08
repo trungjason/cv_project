@@ -1,0 +1,150 @@
+﻿@{
+    ViewData["Title"] = "Thanh toán đơn hàng";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/checkouts/style.css">
+</head>
+
+ <div class="checkouts mt-5">
+    <div class="container h-100">
+        <div class="row h-100">
+            <div class="col-12 col-sm-6">
+                <div class="checkouts-label pt-4 mb-3">
+                    Nhà hàng Cơm nhà
+                </div>
+
+                <!-- Danh sách món ăn -->
+                <ul class="checkouts-list">
+                </ul>
+                <div class="checkouts-summary">
+                    <div class="checkouts-price">
+                        Tạm tính
+                        <span>600.000đ</span>
+                    </div>
+                    <div class="checkouts-ship">
+                        Phí ship
+                        <span>50.000đ</span>
+                    </div>
+                    <div class="checkouts-discount">
+                        Giảm giá
+                        <span>---</span>
+                    </div>
+                </div>
+                <div class="checkouts-note d-flex justify-content-end mt-2">
+                    *Giảm tối đa 1.500.000đ cho mỗi đơn hàng
+                </div>
+                <div class="checkouts-total">
+                    <strong>Tổng tiền</strong>
+                    <span>650.000đ</span>
+                </div>
+            </div>
+
+            <!-- Form điền thông tin -->
+            <div class="col-12 col-sm-6 pb-5 checkouts-payment">
+                <h5 class="text-center pt-4 mt-3">Thông tin thanh toán</h5>
+                <form class="needs-validation checkouts-form" novalidate>
+                    <div class="form-group mt-3">
+                        <input type="text" class="form-control" id="checkouts-name" placeholder="Họ và tên *" required>
+                        <div class="invalid-feedback">
+                            Bạn chưa nhập họ tên
+                        </div>
+                    </div>
+                    <div class="form-group mt-3">
+                        <div class="input-group">
+                            <input type="text" class="form-control" id="checkouts-member" placeholder="Mã hội viên (Nếu có)">
+                            <div class="input-group-append">
+                                <button class="btn btn-outline-success checkouts-member-btn" type="button">Xác nhận</button>
+                            </div>
+                        </div>
+                        <div class="checkouts-member-message text-danger d-none" style="font-size: 12.8px; margin-top: 4px;">
+                            Mã hội viên không hợp lệ
+                        </div>
+                    </div>
+                    <div class="form-row mt-3">
+                        <div class="col-md-6 mb-3">
+                            <input type="email" class="form-control" id="checkouts-email" placeholder="Email">
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <input type="number" class="form-control" id="checkouts-phone" placeholder="Số điện thoại *" required>
+                            <div class="invalid-feedback">
+                                Bạn chưa nhập số điện thoại
+                            </div>
+                            <div class="checkouts-phone-message text-danger d-none" style="font-size: 12.8px; margin-top: 4px;">
+                                Số điện thoại không hợp lệ
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group mt-3">
+                        <input type="text" class="form-control" id="checkouts-address" placeholder="Địa chỉ *" required>
+                        <div class="invalid-feedback">
+                            Bạn chưa cung cấp địa chỉ giao hàng
+                        </div>
+                    </div>
+                    <div class="form-row mt-3">
+                        <div class="form-group col-lg-6">
+                            <label for="checkouts-province">Tỉnh thành:</label>
+                            <input type="text" class="form-control" id="checkouts-province" value="Tp. Hồ Chí Minh" readonly>
+                        </div>
+                        <div class="form-group col-lg-6">
+                            <label for="checkouts-district">Quận/Huyện*:</label>
+                            <select id="checkouts-district" class="custom-select form-control px-2" required>
+                                <option value="">--Chọn quận/huyện--</option>
+                                @{
+                                    for( int i = 1; i <= 12;i++)
+                                    {
+                                        <option value="Quận @i">Quận @i</option>
+                                    }
+                                }
+       
+                                <option value="Quận Bình Tân">Quận Bình Tân</option>
+                                <option value="Quận Bình Thạnh">Quận Bình Thạnh</option>
+                                <option value="Quận Gò Vấp">Quận Gò Vấp</option>
+                                <option value="Quận Phú Nhuận">Quận Phú Nhuận</option>
+                                <option value="Quận Tân Bình">Quận Tân Bình</option>
+                                <option value="Quận Tân Phú">Quận Tân Phú</option>
+                                <option value="Quận Thủ Đức">Quận Thủ Đức</option>
+                                <option value="Huyện Cần Giờ">Huyện Cần Giờ</option>
+                                <option value="Huyện Củ Chi">Huyện Củ Chi</option>
+                                <option value="Huyện Hóc Môn">Huyện Hóc Môn</option>
+                                <option value="Huyện Nhà Bè">Huyện Nhà Bè</option>
+                            </select>
+                            <div class="invalid-feedback">
+                                Chọn quận/huyện
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-row mt-3">
+                        <div class="form-group col-lg-6">
+                            <label for="checkouts-method">Phương thức thanh toán*:</label>
+                            <select id="checkouts-method" class="custom-select form-control px-2" required>
+                                <option value="">--Chọn phương thức--</option>
+                                <option value="MoMo">Ví MoMo</option>
+                                <option value="ZaloPay">Ví ZaloPay</option>
+                                <option value="ATM">Thẻ ATM</option>
+                                <option value="Visa">Thẻ Visa</option>
+                            </select>
+                            <div class="invalid-feedback">
+                                Chọn phương thức thanh toán
+                            </div>
+                        </div>
+                        <div class="form-group col-lg-6">
+                            <label for="checkouts-card">Mã số:</label>
+                            <input type="number" class="form-control" id="checkouts-card" required>
+                            <div class="invalid-feedback">
+                                Nhập mã số
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="d-flex align-items-center justify-content-between">
+                        <a href="/ComNha/cart">Giỏ hàng</a>
+                        <button class="btn btn-danger px-3 py-2" type="submit">Đặt hàng</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="~/js/main.js"></script>
+<script src="~/js/checkouts/control.js"></script>

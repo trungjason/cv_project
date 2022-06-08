@@ -1,0 +1,142 @@
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\RestaurentDAO.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\RestaurentDAO.pdb
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\MySql.Data.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\RestaurentDTO.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\Google.Protobuf.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\ZstdNet.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\BouncyCastle.Crypto.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\Ubiety.Dns.Core.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\System.Memory.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\System.Buffers.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\K4os.Compression.LZ4.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\K4os.Hash.xxHash.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\System.Numerics.Vectors.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\RestaurentDTO.pdb
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\MySql.Data.xml
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.csproj.AssemblyReference.cache
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.csproj.CoreCompileInputs.cache
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.csproj.CopyComplete
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.pdb
+E:\51900712\C#\Công nghệ Phần mềm\Cuối kì\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\RestaurentDAO.dll
+E:\51900712\C#\Công nghệ Phần mềm\Cuối kì\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\RestaurentDAO.pdb
+E:\51900712\C#\Công nghệ Phần mềm\Cuối kì\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\RestaurentDTO.dll
+E:\51900712\C#\Công nghệ Phần mềm\Cuối kì\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\Google.Protobuf.dll
+E:\51900712\C#\Công nghệ Phần mềm\Cuối kì\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\ZstdNet.dll
+E:\51900712\C#\Công nghệ Phần mềm\Cuối kì\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\51900712\C#\Công nghệ Phần mềm\Cuối kì\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\BouncyCastle.Crypto.dll
+E:\51900712\C#\Công nghệ Phần mềm\Cuối kì\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\Ubiety.Dns.Core.dll
+E:\51900712\C#\Công nghệ Phần mềm\Cuối kì\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\System.Memory.dll
+E:\51900712\C#\Công nghệ Phần mềm\Cuối kì\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\System.Buffers.dll
+E:\51900712\C#\Công nghệ Phần mềm\Cuối kì\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\K4os.Compression.LZ4.dll
+E:\51900712\C#\Công nghệ Phần mềm\Cuối kì\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\K4os.Hash.xxHash.dll
+E:\51900712\C#\Công nghệ Phần mềm\Cuối kì\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\System.Numerics.Vectors.dll
+E:\51900712\C#\Công nghệ Phần mềm\Cuối kì\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\RestaurentDTO.pdb
+E:\51900712\C#\Công nghệ Phần mềm\Cuối kì\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\MySql.Data.xml
+E:\51900712\C#\Công nghệ Phần mềm\Cuối kì\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.csproj.AssemblyReference.cache
+E:\51900712\C#\Công nghệ Phần mềm\Cuối kì\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.csproj.CoreCompileInputs.cache
+E:\51900712\C#\Công nghệ Phần mềm\Cuối kì\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.csproj.CopyComplete
+E:\51900712\C#\Công nghệ Phần mềm\Cuối kì\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.dll
+E:\51900712\C#\Công nghệ Phần mềm\Cuối kì\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.pdb
+C:\Users\Admin\Desktop\Github\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\RestaurentDAO.dll
+C:\Users\Admin\Desktop\Github\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\RestaurentDAO.pdb
+C:\Users\Admin\Desktop\Github\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\RestaurentDTO.dll
+C:\Users\Admin\Desktop\Github\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\Desktop\Github\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\ZstdNet.dll
+C:\Users\Admin\Desktop\Github\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Desktop\Github\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Desktop\Github\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Admin\Desktop\Github\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\Github\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\Github\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Admin\Desktop\Github\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Admin\Desktop\Github\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\Github\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\RestaurentDTO.pdb
+C:\Users\Admin\Desktop\Github\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\MySql.Data.xml
+C:\Users\Admin\Desktop\Github\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Github\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Github\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.csproj.CopyComplete
+C:\Users\Admin\Desktop\Github\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.dll
+C:\Users\Admin\Desktop\Github\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.pdb
+E:\51900712\C#\Công nghệ Phần mềm\Cuối kì\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\CryptSharp.dll
+E:\51900712\C#\Công nghệ Phần mềm\Cuối kì\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\CryptSharp.pdb
+E:\51900712\C#\Công nghệ Phần mềm\Cuối kì\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\CryptSharp.xml
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\CryptSharp.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\CryptSharp.pdb
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\CryptSharp.xml
+C:\Users\Admin\Desktop\Github\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\CryptSharp.dll
+C:\Users\Admin\Desktop\Github\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\CryptSharp.pdb
+C:\Users\Admin\Desktop\Github\CNPM-Demo\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\CryptSharp.xml
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Project\Winforms- Phần mềm quản lý nhà hàng\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\RestaurentDAO.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Project\Winforms- Phần mềm quản lý nhà hàng\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\RestaurentDAO.pdb
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Project\Winforms- Phần mềm quản lý nhà hàng\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\CryptSharp.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Project\Winforms- Phần mềm quản lý nhà hàng\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\MySql.Data.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Project\Winforms- Phần mềm quản lý nhà hàng\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\RestaurentDTO.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Project\Winforms- Phần mềm quản lý nhà hàng\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\Google.Protobuf.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Project\Winforms- Phần mềm quản lý nhà hàng\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\ZstdNet.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Project\Winforms- Phần mềm quản lý nhà hàng\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Project\Winforms- Phần mềm quản lý nhà hàng\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\BouncyCastle.Crypto.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Project\Winforms- Phần mềm quản lý nhà hàng\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\Ubiety.Dns.Core.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Project\Winforms- Phần mềm quản lý nhà hàng\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\System.Memory.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Project\Winforms- Phần mềm quản lý nhà hàng\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\System.Buffers.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Project\Winforms- Phần mềm quản lý nhà hàng\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\K4os.Compression.LZ4.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Project\Winforms- Phần mềm quản lý nhà hàng\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\K4os.Hash.xxHash.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Project\Winforms- Phần mềm quản lý nhà hàng\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\System.Numerics.Vectors.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Project\Winforms- Phần mềm quản lý nhà hàng\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\RestaurentDTO.pdb
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Project\Winforms- Phần mềm quản lý nhà hàng\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\CryptSharp.pdb
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Project\Winforms- Phần mềm quản lý nhà hàng\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\CryptSharp.xml
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Project\Winforms- Phần mềm quản lý nhà hàng\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\MySql.Data.xml
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Project\Winforms- Phần mềm quản lý nhà hàng\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.csproj.AssemblyReference.cache
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Project\Winforms- Phần mềm quản lý nhà hàng\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.csproj.CoreCompileInputs.cache
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Project\Winforms- Phần mềm quản lý nhà hàng\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.csproj.CopyComplete
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Project\Winforms- Phần mềm quản lý nhà hàng\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Project\Winforms- Phần mềm quản lý nhà hàng\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.pdb
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Submit\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\RestaurentDAO.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Submit\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\RestaurentDAO.pdb
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Submit\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\CryptSharp.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Submit\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\MySql.Data.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Submit\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\RestaurentDTO.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Submit\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\Google.Protobuf.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Submit\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\ZstdNet.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Submit\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Submit\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\BouncyCastle.Crypto.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Submit\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\Ubiety.Dns.Core.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Submit\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\System.Memory.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Submit\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\System.Buffers.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Submit\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\K4os.Compression.LZ4.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Submit\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\K4os.Hash.xxHash.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Submit\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\System.Numerics.Vectors.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Submit\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\RestaurentDTO.pdb
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Submit\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\CryptSharp.pdb
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Submit\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\CryptSharp.xml
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Submit\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\MySql.Data.xml
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Submit\Project\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.csproj.AssemblyReference.cache
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Submit\Project\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.csproj.CoreCompileInputs.cache
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Submit\Project\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.csproj.CopyComplete
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Submit\Project\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.dll
+E:\OneDrive\Desktop\Cuối kỳ Công Nghệ Phần Mềm\Demo\CNPM-Demo\Submit\Project\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.pdb
+E:\Download\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\RestaurentDAO.dll
+E:\Download\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\RestaurentDAO.pdb
+E:\Download\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\CryptSharp.dll
+E:\Download\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\MySql.Data.dll
+E:\Download\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\RestaurentDTO.dll
+E:\Download\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\Google.Protobuf.dll
+E:\Download\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\ZstdNet.dll
+E:\Download\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Download\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\BouncyCastle.Crypto.dll
+E:\Download\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\Ubiety.Dns.Core.dll
+E:\Download\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\System.Memory.dll
+E:\Download\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\System.Buffers.dll
+E:\Download\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\K4os.Compression.LZ4.dll
+E:\Download\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\K4os.Hash.xxHash.dll
+E:\Download\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\System.Numerics.Vectors.dll
+E:\Download\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\RestaurentDTO.pdb
+E:\Download\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\CryptSharp.pdb
+E:\Download\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\CryptSharp.xml
+E:\Download\Project\51900286-51900712-51900718-51900699\RestaurentDAO\bin\Debug\MySql.Data.xml
+E:\Download\Project\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.csproj.AssemblyReference.cache
+E:\Download\Project\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.csproj.CoreCompileInputs.cache
+E:\Download\Project\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.csproj.CopyComplete
+E:\Download\Project\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.dll
+E:\Download\Project\51900286-51900712-51900718-51900699\RestaurentDAO\obj\Debug\RestaurentDAO.pdb

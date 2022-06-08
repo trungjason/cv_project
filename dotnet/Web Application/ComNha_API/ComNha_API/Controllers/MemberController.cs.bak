@@ -1,0 +1,65 @@
+using ComNha_API.Models;
+using Microsoft.AspNetCore.Cors;
+using Microsoft.AspNetCore.Mvc;
+
+namespace ComNha_API.Controllers
+{
+    [EnableCors("AllowOrigin")]
+    [ApiController]
+    [Route("[controller]")]
+    public class BookController : ControllerBase
+    {
+        private readonly ILogger<BookController> _logger;
+
+        public BookController(ILogger<BookController> logger)
+        {
+            _logger = logger;
+        }
+       
+        [EnableCors("AllowOrigin")]
+        [HttpPost]
+        public IActionResult CreateBook(Booking bookingInfo)
+        {
+            if ( bookingInfo == null ){
+                return new JsonResult(new { status = false, message = "Không thấy ảnh nào cần upload." });    
+            }
+
+            if ( String.IsNullOrEmpty(bookingInfo.Name) ||
+            String.IsNullOrEmpty(bookingInfo.Phone) ||
+            String.IsNullOrEmpty(String.valueOf(bookingInfo.Quantity)) ||
+            String.IsNullOrEmpty(bookingInfo.Date.ToString()) ||
+            String.IsNullOrEmpty(bookingInfo.Time.ToString()) ||
+            String.IsNullOrEmpty(bookingInfo.Note) 
+            ){
+                return new JsonResult(new { status = false, message = "Không thấy ảnh nào cần upload." });
+            }
+
+            using ( var context = new quanlynhahangContext()){
+                context.Khachhangs.Add(new Khachhang { SoDienThoai = bookingInfo.Phone, TenKhachHang = bookingInfo.Name});
+                context.SaveChanges();
+
+				var maxID = context.Lichhens.Max(x => x.MaLichHen)
+				
+				if ( maxID != null ){
+					var maxMaLicHhen = context.Lichhens.First(x => x.MaLichHen == maxID);
+					
+				} else {
+					var maxMaLicHhen = "LH001";
+				}
+					
+            }
+			
+            return new JsonResult(new { status = true, message = "Không thấy ảnh nào cần upload." });
+        }
+    }
+
+    public class Booking
+    {
+        public string Name { get; set; }
+        public string Phone { get; set; }
+        public int Quantity { get; set; }
+        public DateTime Date { get; set; }
+        public TimeSpan Time { get; set; }
+        public string Note { get; set; }
+    }
+}

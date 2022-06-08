@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Giỏ hàng";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/cart/style.css">
+</head>
+
+<div class="cart">
+    <div class="container">
+        <div class="cart-title">
+            Giỏ hàng
+        </div>
+        <div id="cart-empty" class="d-none">
+            <div class="d-flex align-items-center flex-column mt-4">
+                <div>
+                    Quý khách chưa đặt món ăn nào cả.
+                </div>
+                <div class="">
+                    Nhấn vào <a href="/ComNha/menu">đây</a> để chọn món nào.
+                </div>
+            </div>
+        </div>
+        <div id="cart-not-empty" class="row mt-5">
+            <div class="col-12 col-lg-8">
+                <ul class="cart-list">
+                </ul>
+                <div class="d-flex justify-content-end my-2">
+                    <button class="cart-add btn btn-danger">Thêm món</button>
+                </div>
+            </div>
+            <div class="col-12 col-lg-4">
+                <textarea class="cart-note" rows="4" placeholder="Ghi chú..."></textarea>
+                <div class="d-xl-block mt-3"></div>
+                <div class="cart-total">
+                    Tổng tiền: <span class="cart-total__cash">0đ</span>
+                </div>
+                <button class="cart-order btn btn-success w-100 mt-3">Đặt ship</button>
+                <div class="mt-2 text-info">
+                    *Đơn từ 1.000.000đ trở lên sẽ được freeship
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/js/cart/control.js"></script>

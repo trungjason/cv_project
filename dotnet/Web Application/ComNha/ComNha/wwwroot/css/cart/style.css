@@ -1,0 +1,140 @@
+.cart {
+    font-family: 'Lora', serif !important;
+    margin-top: var(--header-height);
+    padding: 40px 0;
+    min-height: 800px;
+    animation: grouthAndFadeIn linear 0.4s;
+}
+
+.cart-title {
+    text-align: center;
+    font-size: 32px;
+    text-transform: uppercase;
+    color: var(--primary-color);
+}
+
+.cart-list {    
+    list-style-type: none;
+    padding: 4px;
+    margin: 0;
+}
+
+.cart-item {
+    padding-bottom: 15px;
+    border-bottom: 1px solid rgb(134, 132, 132);
+    margin-bottom: 15px;
+}
+
+.cart-item__img {
+    width: 100px;
+    height: 75px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.cart-item__wrapper {
+    flex: 1;
+}
+
+.cart-item__info {
+    flex: 1;
+}
+
+.cart-item__name {
+    font-size: 18px;
+    line-height: 24px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+}
+
+.cart-item__price {
+    display: inline;
+}
+
+.cart-item__control {
+    text-align: end;
+    flex: 1;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.cart-item__num {
+    text-align: center;
+    width: 50px;
+    border: 2px solid black;
+    margin: 0 4px;
+}
+
+.cart-item__num::-webkit-outer-spin-button,
+.cart-item__num::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.cart-item__btn {
+    cursor: pointer;
+    background-color: transparent;
+    border-radius: 50%;
+    outline: none;
+    border: none;
+    transition: background-color linear 0.2s;
+}
+
+.cart-item__btn:active,
+.cart-item__btn:focus {
+    outline: none;
+}
+
+.cart-item__btn:hover {
+    background-color: var(--primary-color);
+    color: var(--white-color);
+}
+
+.cart-item__wrap {
+    flex: 1;
+    text-align: end;
+}
+
+.cart-item__delete {
+    font-size: 18px;
+    padding: 4px;
+    cursor: pointer;
+    margin: 0 10px;
+}
+
+.cart-item__delete:hover {
+    color: var(--primary-color);
+}
+
+.cart-note {
+    width: 100%;
+    padding: 10px;
+}
+
+.cart-add:focus {
+    outline: none;
+}
+
+.cart-add:hover {
+    background-color: var(--primary-hover-color);
+}
+
+.cart-total {
+    font-size: 18px;
+    border-bottom: 1px solid black;
+    padding-bottom: 8px;
+    line-height: 24px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+}
+
+.cart-total__cash {
+    color: var(--primary-color);
+    font-size: 24px;
+    font-weight: 600;
+}

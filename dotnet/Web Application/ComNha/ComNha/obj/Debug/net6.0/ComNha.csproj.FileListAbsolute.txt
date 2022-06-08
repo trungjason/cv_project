@@ -1,0 +1,474 @@
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\appsettings.Development.json
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\appsettings.json
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ComNha.staticwebassets.runtime.json
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ComNha.exe
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ComNha.deps.json
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ComNha.runtimeconfig.json
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ComNha.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ref\ComNha.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ComNha.pdb
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Humanizer.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\MessagePack.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\NuGet.Common.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\obj\Debug\net6.0\ComNha.csproj.AssemblyReference.cache
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\obj\Debug\net6.0\ComNha.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\obj\Debug\net6.0\ComNha.AssemblyInfoInputs.cache
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\obj\Debug\net6.0\ComNha.AssemblyInfo.cs
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\obj\Debug\net6.0\ComNha.csproj.CoreCompileInputs.cache
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\obj\Debug\net6.0\ComNha.MvcApplicationPartsAssemblyInfo.cs
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\obj\Debug\net6.0\ComNha.MvcApplicationPartsAssemblyInfo.cache
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\obj\Debug\net6.0\ComNha.RazorAssemblyInfo.cache
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\obj\Debug\net6.0\ComNha.RazorAssemblyInfo.cs
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\obj\Debug\net6.0\staticwebassets.build.json
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\obj\Debug\net6.0\staticwebassets.development.json
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\obj\Debug\net6.0\scopedcss\bundle\ComNha.styles.css
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\obj\Debug\net6.0\ComNha.csproj.CopyComplete
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\obj\Debug\net6.0\ComNha.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\obj\Debug\net6.0\ref\ComNha.dll
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\obj\Debug\net6.0\ComNha.pdb
+E:\Github\c--cnpm-n12-hk2-2022\ComNha\ComNha\obj\Debug\net6.0\ComNha.genruntimeconfig.cache
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\appsettings.Development.json
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\appsettings.json
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ComNha.staticwebassets.runtime.json
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ComNha.exe
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ComNha.deps.json
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ComNha.runtimeconfig.json
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ComNha.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ref\ComNha.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ComNha.pdb
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Humanizer.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\MessagePack.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\NuGet.Common.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\obj\Debug\net6.0\ComNha.csproj.AssemblyReference.cache
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\obj\Debug\net6.0\ComNha.GeneratedMSBuildEditorConfig.editorconfig
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\obj\Debug\net6.0\ComNha.AssemblyInfoInputs.cache
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\obj\Debug\net6.0\ComNha.AssemblyInfo.cs
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\obj\Debug\net6.0\ComNha.csproj.CoreCompileInputs.cache
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\obj\Debug\net6.0\ComNha.MvcApplicationPartsAssemblyInfo.cs
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\obj\Debug\net6.0\ComNha.MvcApplicationPartsAssemblyInfo.cache
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\obj\Debug\net6.0\ComNha.RazorAssemblyInfo.cache
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\obj\Debug\net6.0\ComNha.RazorAssemblyInfo.cs
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\obj\Debug\net6.0\staticwebassets.build.json
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\obj\Debug\net6.0\staticwebassets.development.json
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\obj\Debug\net6.0\scopedcss\bundle\ComNha.styles.css
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\obj\Debug\net6.0\ComNha.csproj.CopyComplete
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\obj\Debug\net6.0\ComNha.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\obj\Debug\net6.0\ref\ComNha.dll
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\obj\Debug\net6.0\ComNha.pdb
+E:\51900712\C#\CĐCNPM\c--cnpm-n12-hk2-2022\Web Application\ComNha\ComNha\obj\Debug\net6.0\ComNha.genruntimeconfig.cache

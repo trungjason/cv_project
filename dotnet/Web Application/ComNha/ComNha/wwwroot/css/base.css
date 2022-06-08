@@ -1,0 +1,47 @@
+﻿:root {
+    --white-color: #fff;
+    --black-color: #000;
+    /* Màu này giúp dịu mắt hơn khi đọc lâu */
+    --text-color: #333;
+    --primary-color: #ff0000;
+    --primary-border-color: #eb0101;
+    --primary-hover-color: #cf0000;
+    --bg-color: #c9c9c9;
+    --header-height: 60px;
+}
+
+* {
+    /* Kế thừa từ thẻ chứa nó */
+    box-sizing: inherit;
+}
+
+html {
+    scroll-behavior: smooth !important;
+    line-height: 16px;
+    font-family: 'Lora', serif !important;
+    box-sizing: border-box;
+}
+
+@keyframes headerSubListGoUp {
+    from {
+        opacity: 0;
+        transform: translateY(80%);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes grouthAndFadeIn {
+    from {
+        /* transform: scale(0); */
+        opacity: 0;
+    }
+
+    to {
+        /* transform: scale(1); */
+        opacity: 1;
+    }
+}

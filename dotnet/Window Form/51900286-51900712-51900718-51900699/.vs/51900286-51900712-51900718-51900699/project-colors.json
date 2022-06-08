@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7f3e8146-0a58-42ae-a868-f76ecb9820c9": {
+      "ProjectGuid": "7f3e8146-0a58-42ae-a868-f76ecb9820c9",
+      "DisplayName": "51900286-51900712-51900718-51900699",
+      "ColorIndex": 0
+    },
+    "5fef9ff4-6c52-4c6d-85fe-7cc966ec57d1": {
+      "ProjectGuid": "5fef9ff4-6c52-4c6d-85fe-7cc966ec57d1",
+      "DisplayName": "RestaurentDAO",
+      "ColorIndex": 1
+    },
+    "52d5e161-63b7-4ddd-81ae-140b8b328e94": {
+      "ProjectGuid": "52d5e161-63b7-4ddd-81ae-140b8b328e94",
+      "DisplayName": "RestaurentDTO",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

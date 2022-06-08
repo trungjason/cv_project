@@ -1,0 +1,97 @@
+.contact {
+    font-family: 'Lora', serif !important;
+    margin-top: var(--header-height);
+    padding: 40px 0;
+    color: var(--text-color);
+    animation: grouthAndFadeIn linear 0.4s;
+}
+
+.contact-title {
+    display: flex;
+    justify-content: center;
+    font-size: 32px;
+    text-transform: uppercase;
+    color: var(--primary-color);
+}
+
+.contact-hotline {
+    display: flex;
+    align-items: center;
+    font-size: 26px;
+    color: var(--primary-color);
+}
+
+.contact-hotline a {
+    color: var(--text-color);
+    margin-left: 12px;
+}
+
+.contact-time,
+.contact-loction {
+    display: flex;
+    padding: 20px 0;
+    align-items: center;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.4);
+}
+
+.contact-time__icon,
+.contact-loction__icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+    height: 60px;
+    font-size: 60px;
+    color: var(--primary-color);
+    margin-right: 20px;
+}
+
+.contact-time__list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.contact-time__item {
+    padding: 8px 0;
+    font-size: 18px;
+}
+
+.contact-loction__content {
+    margin: 0;
+    font-size: 18px;
+}
+
+.contact-social {
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+}
+
+.contact-social__heading {
+    font-size: 22px;
+    color: var(--primary-color);
+}
+
+.contact-social__list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.contact-social__item {
+    font-size: 32px;
+    margin-left: 16px;
+}
+
+.contact-social__item a {
+    color: var(--text-color);
+}
+
+.contact-social__item a:hover {
+    color: var(--primary-color);
+}
+

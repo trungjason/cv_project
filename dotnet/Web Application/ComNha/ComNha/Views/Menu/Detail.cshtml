@@ -1,0 +1,66 @@
+﻿@{
+    ViewData["Title"] = "Chi tiết món ăn";
+}
+@using ComNha.Models
+@model ComNha.Models.Monan
+
+@{    
+    // define format VND
+    var format = System.Globalization.CultureInfo.GetCultureInfo("vi-VN");
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/menu/style.css">
+</head>
+
+<div class="detail">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-xl-6 d-none d-xl-block">
+                <div class="detail-img">
+                    <img 
+                    style="width: 100%; height: 300px; object-fit:cover; border-radius: 12px; margin-bottom: 20px;"
+                    id="imageZoom" src="~/images/food-images/@Model.HinhAnh" alt="Img">
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-xl-6 d-block d-xl-none">
+                <img 
+                    style="width: 100%; height: 300px; object-fit:cover; border-radius: 12px; margin-bottom: 20px;"
+                    src="~/images/food-images/@Model.HinhAnh" 
+                    alt="Img"
+                >
+            </div>
+            <div class="col-12 col-md-6 col-xl-6">
+                <div 
+                    class="detail-info"
+                    data-food-id="@Model.MaMonAn"
+                >
+                    <h1 class="detail-info__name">@Model.TenMonAn</h1>
+                    <div class="detail-info__price">
+                        @Model.DonGia.ToString("#,###", format.NumberFormat)đ
+                    </div>
+                    <p class="detail-info__desc">
+                        @Model.MoTaNgan
+                    </p>
+                    <button class="detail-info__order detail-info__order--add">
+                        <i class="fas fa-cart-plus"></i>
+                        Order
+                    </button>
+                    <button class="detail-info__order detail-info__order--added">
+                        Đã thêm
+                    </button>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="detail-desc">
+                    <h4 class="detail-desc__label">Mô tả</h4>
+                    <p class="detail-desc__content">
+                        @Model.MoTa
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/js/menu/control.js"></script>
